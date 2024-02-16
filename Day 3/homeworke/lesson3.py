@@ -1,5 +1,5 @@
 # დაპრინტეთ თქვენი ოჯახის წევრების სახელები ტერმინალში 
-me = "maria mak"
+me = "maria makharadze"
 mother = "lali qobuladze"
 father = "goga makharadze"
 print(me)
